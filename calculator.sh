@@ -14,3 +14,4 @@ if [ $b -ne 0 ]; then
 else
     echo "Cannot divide by zero"
 fi
+echo "Addition Feature Completed"
